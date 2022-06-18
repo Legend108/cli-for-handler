@@ -3,13 +3,13 @@
 ### To install
 
 ```
-npm install -g soup
+npm install -g soupy
 ```
 
 ### Generate a new project
 
 ```
-soup
+soupy
 ```
 
 ## Steps
