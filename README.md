@@ -1,4 +1,4 @@
-## Generate DJS V13 handler's with ease.
+## Generate this handler with ease.
 
 ### To install
 
@@ -29,5 +29,11 @@ soup
 ## Note:
 
 ### You need to have [git](https://git-scm.com/downloads) installed in order to use this. I might change this in later updates
+
+### To install the packages, just move to the directory and type in 
+```
+npm install
+```
+#### Will automate this in a future update.
 
 ### Made with 💖 by Legend108
