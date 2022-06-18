@@ -12,7 +12,7 @@ npm install -g soup
 soup
 ```
 
-### Questions:
+## Steps
 
 #### Select Create Project in order to generate a new Handler.
 
@@ -20,14 +20,14 @@ soup
 
 #### Provide your bot token next
 
-#### Now the Client ID of your bot project, you can simply right click on your bot to get it. You need to have Developer Mode enable in order to get the Client ID.
+#### Now the Client ID of your bot project, you can simply right click on your bot to get it. You need to have Developer Mode enabled in order to get the Client ID.
 
 ### Now, just wait!
 
 #### Once it get's installed, you will get a success message.
 
-#### Note:
+## Note:
 
-#### You need to have git installed in order to use this. I might change this in later updates
+### You need to have [git](https://git-scm.com/downloads) installed in order to use this. I might change this in later updates
 
 ### Made with 💖 by Legend108
