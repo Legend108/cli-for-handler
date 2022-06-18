@@ -1,0 +1,21 @@
+{
+  "name": "soupy",
+  "version": "1.0.8",
+  "description": "An interactive command line interface for generating Discord.js v13 handler",
+  "main": "index.js",
+  "bin": {
+    "soupy": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "handler"
+  ],
+  "author": "Legend108",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^8.2.4"
+  }
+}
